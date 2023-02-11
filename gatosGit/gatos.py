@@ -1,9 +1,9 @@
 import funcionesTarea
 
 gato1 = funcionesTarea.gato()
-gato1.nombre = "Sussy"
-gato1.color = "negro"
-gato1.edad = 4
+gato1.nombre = "Botitas"
+gato1.color = "Gris con manchas blancas"
+gato1.edad = 1
 gato1.aniadirlista()
 
 gato2 = funcionesTarea.gato()
