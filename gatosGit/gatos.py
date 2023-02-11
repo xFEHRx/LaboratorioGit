@@ -12,4 +12,10 @@ gato2.color = "cafe"
 gato2.edad = 3
 gato2.aniadirlista()
 
+gato3 = funcionesTarea.gato()
+gato3.nombre = "Sombra"
+gato3.color = "Gris"
+gato3.edad = 4
+gato3.aniadirlista()
+
 funcionesTarea.printlista()
